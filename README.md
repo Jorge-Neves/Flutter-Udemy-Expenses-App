@@ -1,2 +1,2 @@
 # Flutter-Udemy-Expenses-App
-MAximillian's Flutter Udemy course expenses app
+Maximillian's Flutter Udemy course expenses app
